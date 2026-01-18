@@ -1,20 +1,24 @@
 {
-  "system_name": "Lex Liberatum Sovereign OS",
-  "version": "1.1.0-Sovereign",
-  "trust_id": "Fiducia Domus Watene Trust",
-  "ucc_filing": "2601101216887-1",
-  "valuation_usd": 400500000.00,
-  "inventory": {
-    "total_kernels": 96,
-    "kernel_range": "kl-001 through kl-901",
-    "hardware_shield": "kl-801",
-    "forensic_signature": "kl-501"
+  "project_name": "Lex Liberatum Sovereign OS",
+  "gateway_version": "2.0.0-Universal",
+  "system_stats": {
+    "total_kernels": 142,
+    "repo_lattice_count": 9,
+    "valuation_usd": 400500000.00,
+    "resolution_fs": 0.41
   },
-  "compliance": {
-    "bft_latency_target": "12.3ms",
-    "legal_standard": "FRE 902.14",
-    "license_model": "SCL v1.1"
+  "industrial_targets": [
+    "Aerospace",
+    "Defense",
+    "Robotics",
+    "Healthcare",
+    "Finance",
+    "Academia",
+    "Government"
+  ],
+  "economic_model": {
+    "royalty_bps": 25,
+    "settlement_type": "Deterministic"
   },
-  "architect_nexus": "Nuizealand3@protonmail.com",
-  "verification_checksum": "SHIELD_LOCKED_2026_PROD"
+  "security_status": "Hacker-Proof_LOCKED"
 }
