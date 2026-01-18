@@ -40,6 +40,8 @@ By utilizing a **Forensic Air-Gap** operating at **0.41fs**, the Lex Oracle rend
 * **[TOKENOMICS.md](https://github.com/rmj95fgb7x-art/lex-gateway/blob/main/docs/TOKENOMICS.md):** The $400.5M asset-backed LKI/LU ledger.
 * **[MASTER_EQUATIONS.md](./docs/MASTER_EQUATIONS.md):** The 0.41fs proof.
 * **[LEGAL_SENIORITY.md](./LEGAL_SENIORITY.md):** UCC-3 Notice of Seniority.
+* kernel list
+https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/docs/KERNEL_MANIFEST.md
 
 **Authenticated by:** The Trustee, Fiducia Domus Watene Trust  
 **Contact:** Nuizealand3@protonmail.com
