@@ -1,4 +1,4 @@
-# 🏛️ Lex Liberatum | Universal Sovereign Gateway
+# 🏛️ Lex Liberatum | Universal Quantum Gateway
 **The End of Probabilistic Uncertainty. The Arrival of Deterministic Truth.**
 
 **Status:** Universal Verification Nexus  
