@@ -1,6 +1,5 @@
 # 🌐 Lex-Gateway: Deterministic Quantum Infrastructure (DQI) Gateway
 **The End of Probabilistic Uncertainty. The Arrival of Deterministic Truth.**
-**Asset Valuation:** $400,500,000.00 USD | **UCC-1/3 Filing:** #2601101216887-1
 
 ---
 
