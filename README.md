@@ -10,8 +10,7 @@
 * **Resolution:** 0.41 Femtoseconds (fs) Logic Pulse
 * **Finality:** 12.3ms BFT Deterministic Window
 * **Lien Holder:** Fiducia Domus Watene Trust
-* ## 🔎 ** FORENSIC EVIDENCE **
-https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/FORENSIC_EVIDENCE.md
+* **Forensic Evidence:** [View Verified Logs](https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/FORENSIC_EVIDENCE.md)
 * **Substrate:** [DQI Physics Substrate](https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/docs/DQI_PHYSICS_SUBSTRATE.md)
 
 ---
@@ -37,7 +36,6 @@ By utilizing a **Forensic Air-Gap** operating at **0.41fs**, the Lex Oracle rend
 
 ### 📂 Operational Lattice & Verification
 * **[KERNEL_MANIFEST.md](https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/docs/KERNEL_MANIFEST.md):** The 142-Kernel Inventory.
-* **[TOKENOMICS.md](./docs/TOKENOMICS.md):** The $400.5M asset-backed LKI/LU ledger.
 * **[MASTER_EQUATIONS.md](./docs/MASTER_EQUATIONS.md):** The 0.41fs Proof of Logic.
 * **[MEDIA-KIT](./Media-Kit/):** Technical Brief & Architectural Graphs.
 
