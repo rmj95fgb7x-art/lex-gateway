@@ -10,6 +10,8 @@
 * **Resolution:** 0.41 Femtoseconds (fs) Logic Pulse
 * **Finality:** 12.3ms BFT Deterministic Window
 * **Lien Holder:** Fiducia Domus Watene Trust
+* ## 🔎 ** FORENSIC EVIDENCE **
+https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/FORENSIC_EVIDENCE.md
 * **Substrate:** [DQI Physics Substrate](https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/docs/DQI_PHYSICS_SUBSTRATE.md)
 
 ---
