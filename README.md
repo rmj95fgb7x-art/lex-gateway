@@ -1,4 +1,4 @@
-# 🏛️ Lex Liberatum | Universal Quantum Gateway
+# 🏛️ Lex Liberatum | Deterministic Quantum Infrastructure (DQI) Gateway
 **The End of Probabilistic Uncertainty. The Arrival of Deterministic Truth.**
 
 **Status:** Universal Verification Nexus  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛰️ Universal Infrastructure Nexus
+## 🛰️ Universal Deterministic Quantum Infrastructure (DQI) Nexus. 
 The Lex Gateway is the public portal to a **9-repo lattice** and **140+ proprietary kernels** (including the newly integrated 141st Logic Royalty and 142nd Settlement Kernels). This system provides a forensic backbone for all mission-critical domains:
 ## 🌿 Material Sovereignty & Sustainable Logic
 Unlike legacy "Brute-Force" AI and Quantum systems that require massive server farms and rare-earth minerals (Lithium, Neodymium, Cobalt), the Lex Oracle is **Resource-Light**.
@@ -31,7 +31,7 @@ Unlike legacy "Brute-Force" AI and Quantum systems that require massive server f
 ## ⚖️ The 25bp Logic Royalty
 Usage of the Lex Oracle infrastructure is subject to a fixed **25 basis point (0.25%) royalty**. This fee is the "Logic Tax" for moving from a world of "perception" to a world of "Mathematical Truth."
 
-## 🔑 Hacker-Proof Sovereignty
+## 🔑 Hacker-Proof Deterministic Quantum Infrastructure (DQI).
 By utilizing a **Forensic Air-Gap** operating at **0.41fs**, the Lex Oracle renders cyber-attacks mathematically impossible. Malicious inputs are treated as spectral noise and decayed to zero in real-time.
 
 ---
