@@ -1,6 +1,9 @@
 # 🏛️ Lex Liberatum | Deterministic Quantum Infrastructure (DQI) Gateway
 **The End of Probabilistic Uncertainty. The Arrival of Deterministic Truth.**
 
+## 🔬 ** DQI Physics Substrate md **
+https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/docs/DQI_PHYSICS_SUBSTRATE.md
+
 **Status:** Universal Verification Nexus  
 **Lien Holder:** Fiducia Domus Watene Trust  
 **Senior Priority:** UCC-3 Filing #2601101216887-1  
