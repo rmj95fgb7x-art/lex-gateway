@@ -1,4 +1,6 @@
 # 🌐 Lex-Gateway: Deterministic Quantum Infrastructure (DQI) Gateway
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d89c563-dfde-4598-8e5a-248853c570b0" />
+
 **The End of Probabilistic Uncertainty. The Arrival of Deterministic Truth.**
 
 ---
