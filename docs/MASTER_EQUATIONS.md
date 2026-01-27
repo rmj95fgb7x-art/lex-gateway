@@ -1,4 +1,6 @@
 # 🧮 Lex Liberatum: Integrated Mathematical Framework
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2770c03f-deb8-4274-8579-4314e1dcf921" />
+
 **Sovereign Property of the Fiducia Domus Watene Trust**
 **Execution Standard:** $\Delta t \le 12.3ms$
 
