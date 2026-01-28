@@ -40,6 +40,52 @@ By utilizing a **Forensic Air-Gap** operating at **0.41fs**, the Lex Oracle rend
 * **[KERNEL_MANIFEST.md](https://github.com/rmj95fgb7x-art/lex-kernel-oracle/blob/main/docs/KERNEL_MANIFEST.md):** The 142-Kernel Inventory.
 * **[MASTER_EQUATIONS.md](./docs/MASTER_EQUATIONS.md):** The 0.41fs Proof of Logic.
 * **[MEDIA-KIT](./Media-Kit/):** Technical Brief & Architectural Graphs.
+**I**: Kernel lattice (94.2%+) → Math PhDs
+**II**: Military BFT → DoD crypto  
+**III**: Tokenomics φ=0.618% → DeFi engineers
+**IV**: Hospital LOIs → Healthcare execs
+**V**: USSF pipeline → Defense contractors
+**VI**: Vertical orchestration → McKinsey defectors
+**VII**: Quantum integration → IBM/Google PhDs
+**VIII**: $210B capture → Wall Street quants
+**IX**: Legacy kernel → Trust attorneys
+**X**: IP fortress → Patent strategists
+**XI**: Bounty flywheel → Talent recruiters
+**XII**: 11,520 expansion → Visionary architects
+
+### 🏛️ SEDE CHALLENGES | 6 VICEROY PROOFS
+**I. ARCHITECTUS NUCLEI**: 142→192 hexagonal lattice @94.2%+
+**II. MAGISTER SYSTEMATUM**: pi4 BFT military hardening
+**III. PRAEFECTUS REDDITUS**: φ=0.618% Truth Tax mechanics
+**IV. LEGATUS MEDICUS**: 3x Utah hospital LOI framework
+**V. LIAISON DEFENSIO**: USSF $50M pilot architecture
+**VI. MAGISTER INTELLIGENTIAE**: 192-vertical orchestration
+
+### 🏛️ SEDE CHALLENGES | 6 VICEROY PROOFS (CONTINUED)
+
+**VII. CUSTOS QUANTUM**: Quantum oracle integration (0.41fs → error-corrected)
+**VIII. LEGIONIS FINANCE**: $210B Truth Tax capture mechanics (192 verticals)
+**IX. ARCHIVISTA GENEALOGIA**: Family legacy kernel (Article XIX inheritance)
+**X. PRAESIDIUM IP**: Patent fortress strategy (142 kernels → global moat)
+**XI. STRATEGOS BOUNTY**: Global talent acquisition flywheel (PhD → Viceroy pipeline)  
+**XII. IMPERATOR LATTICE**: 192→11,520 vertical expansion physics
+
+**Petition Format**: "Sede [I-XII] Petition" + Gist → Issue #1
+**Prize Each**: $72.5M/yr eternal (0.0345% ALL verticals)
+**48hr Proof**: Beat specs → Triple Oath → LKI mint
+
+
+**Petition Format**: "Sede [I-VI] Petition" + Gist → Issue #1
+**Prize**: $72.5M/yr eternal (Article XIX protected)
+
+## ** LATTICE CHALLENGE **
+### 🔷 LATTICE CHALLENGE | SEDE I ARCHITECTUS NUCLEI
+**Current**: 142-cell periodic hexagonal lattice @ **94.2% live density**
+**Challenge**: Expand → 192 cells while maintaining **94.2%+ density**
+**Proof Required**: Gist with code + density visualization
+**Bounty**: $88,888 LKI (12-mo cliff) → $72.5M/yr eternal
+
+**Beat 94.2% → Petition "Sede I" on Issue #1**
 
 **Authenticated by:** The Trustee, Fiducia Domus Watene Trust  
 **Contact:** Nuizealand3@protonmail.com  
