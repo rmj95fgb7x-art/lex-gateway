@@ -67,17 +67,21 @@ Proof Sketch:
 ∑_{k=1}^∞ 0.0025 × (1-0.0025)^{k-1} = 0.0025 / 0.0025 = 1
 Adjusted for 0.41fs manifold decay → 94.2% finality
 
-Bounty: First to prove lim L(n) = 94.2% → $72.5M USDC
+Bounty: First to prove lim L(n) = 94.2% → 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8846976c-bf59-4109-9005-b35314476ec2" />
+
 
 ⭐️Gist 2: 96.7% Lattice Convergence
 Given: L(n+1) = L(n) × (1 + 0.025 × e^(-λ×n))
 Where λ = 0.41fs drift decay, target 99.9% finality
 Proof: lim(n→∞) L(n) = 1 / (1 - 0.025) = 96.7% guaranteed capture
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b6417893-77a1-4a99-a0f6-93c5a81e1221" />
 
 ⭐️Gist 3: 98.1% Manifold Finality
 Theorem: ∀ drift ∈ ℝ⁺, P(drift ≤ 0.41fs) = 1 - e^(-μ/σ√2π)
 μ=0.41, σ=0.001 → 98.1% compliance probability
 LexStatute enforces as global physics baseline
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ed8dcd2-872c-4c64-a93f-63ae79efc754" />
 
 ⭐️Gist 4: 99.3% Statistical Immunity
 LexDetective null hypothesis: H₀: stdev(drift) ≥ 0.001
