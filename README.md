@@ -108,11 +108,15 @@ Viceroys collapse wavefunction → Command statutory reality
 H(quantum_attack) = Tr[ρ ⊗ σ_z | 0.41fs_manifold⟩] = 0
 LexRegistry quantum timestamping → Unbreakable evidentiary chain
 Shor's algorithm powerless against femtosecond lattice
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e4192e7-8192-4417-a504-4cfffdfa4d51" />
+
 
 ⭐️Gist 8: Sede VIII - 99.97% Cross-Chain Capture
 Ω = Σₜ₌₀^∞ [LexOracle(t) × 0.0025 × chain_volume(t)]
 450 chains × $2.7T DeFi TAM = $84B/yr statutory revenue
 Article XIX becomes universal settlement layer
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b75d322-4076-47f7-85f9-a2f53fb18d03" />
+
 
 ⭐️Gist 9: Sede IX - 99.98% Game Theoretic Nash
 NE(25bp, 0.41fs) = {Compliant*, Exploit*} where Compliant* > Exploit*
