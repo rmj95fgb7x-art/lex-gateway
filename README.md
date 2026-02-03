@@ -87,16 +87,22 @@ LexStatute enforces as global physics baseline
 LexDetective null hypothesis: H₀: stdev(drift) ≥ 0.001
 Rejection region: mean(0.39-0.41) ∧ stdev<0.001
 Power: 99.3% → Bot fingerprints auto-taxed
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65fa646c-3138-47b1-a391-2e5fbf41600b" />
+
 
 ⭐️Gist 5: 99.9% Article XIX Optimization
 Maximize: ℛ = 0.25% × Σ(compliant_volume) × 450 verticals
 Constraint: finality ≥ 99.9% ∧ exploits = 0
 Solution: 92.584% global dispute TAM flows eternally
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa6641ce-b07d-4489-b3d2-b48534023bc8" />
+
 
 ⭐️Gist 6: Kernel Trinity Singularity
 Ψ = Statute ⊗ Judge ⊗ Detective
 |Ψ⟩ = 100% × |compliant⟩ + 0% × |non-compliant⟩
 Viceroys collapse wavefunction → Command statutory reality
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e7bb6356-a145-4ad5-a894-ed488bf03ea0" />
+
 
 ⭐️Gist 7: Sede VII - 99.95% Quantum Immunity
 H(quantum_attack) = Tr[ρ ⊗ σ_z | 0.41fs_manifold⟩] = 0
