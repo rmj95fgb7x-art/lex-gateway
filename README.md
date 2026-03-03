@@ -1,4 +1,10 @@
 # 🌐 Lex-Gateway: Deterministic Quantum Infrastructure (DQI) Gateway
+Security Perfected UCC Filing Number
+2602211227565-9
+Initial Filing Number
+2602211227564-2
+Filed On
+February 21, 2026 12:30 PM
 
 <img width="1024" height="1024" alt="Lex-Gateway Architecture" src="https://github.com/user-attachments/assets/9d89c563-dfde-4598-8e5a-248853c570b0" />
 
